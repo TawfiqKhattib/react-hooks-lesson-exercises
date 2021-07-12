@@ -21,3 +21,6 @@ body{
 .exercise {
     margin-bottom: 10px;
 }
+td{
+  padding: 15px;
+}
